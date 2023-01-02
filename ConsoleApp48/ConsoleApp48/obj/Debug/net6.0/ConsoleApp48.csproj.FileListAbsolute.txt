@@ -1,0 +1,17 @@
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.csproj.AssemblyReference.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.AssemblyInfoInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.AssemblyInfo.cs
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.csproj.CoreCompileInputs.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.exe
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.deps.json
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.runtimeconfig.json
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\bin\Debug\net6.0\ConsoleApp48.pdb
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\bin\Debug\net6.0\nunit.framework.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.csproj.CopyComplete
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\refint\ConsoleApp48.dll
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.pdb
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ConsoleApp48.genruntimeconfig.cache
+C:\Users\IshansiAgrawal\Downloads\code\ConsoleApp48\ConsoleApp48\obj\Debug\net6.0\ref\ConsoleApp48.dll
